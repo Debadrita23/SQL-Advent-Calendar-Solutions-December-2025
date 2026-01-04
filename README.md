@@ -1,4 +1,9 @@
+# SQL Advent Calendar 2024
 
-Why this repo exists: 
-To practice SQL every single day and build long-term analytical muscle. 
-Each solution emphasizes clarity, efficiency, and business-ready logic using advanced SQL concepts such as window functions, CTEs, ranking, and time-based analysis.
+This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
+
+## About the Challenge
+
+The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
+
+Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
